@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/purple_contact"
+    android:layout_marginTop="15sp">
+
+    <TextView
+        android:id="@+id/message_item_text"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/hi"
+        android:textSize="@dimen/text_20"
+        android:textColor="@color/teal_700"/>
+
+    <TextView
+        android:id="@+id/message_item_time"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_01_01_1001"
+        android:textSize="12sp"
+        android:layout_gravity="left"
+        android:textColor="@color/teal_200"/>
+</LinearLayout>

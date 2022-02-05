@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">FriendChat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Name</string>
+    <string name="nav_header_subtitle">E-mail</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">FriendChat</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="back">Back</string>
+    <string name="add_new">+ Add new</string>
+    <string name="info">Info</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+    <string name="your_profile">Your profile</string>
+    <string name="your_name">Your name</string>
+    <string name="your_phone">Phone</string>
+    <string name="open_links">Open external links within the app</string>
+    <string name="in_app_browser">In-App Browser</string>
+    <string name="off">Off</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="friend">Friend</string>
+    <string name="ex_number">+7 000 000 00 00</string>
+    <string name="friend_image">Friend image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_changes">save changes</string>
+    <string name="hi">Hi</string>
+    <string name="_01_01_1001">01.01.1001</string>
+    <string name="type_your_message_there">Type your message there</string>
+    <string name="name">Name</string>
+    <string name="android_app">Android app</string>
+</resources>
